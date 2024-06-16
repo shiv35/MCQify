@@ -1,4 +1,3 @@
-`# MCQify App
 MCQify App is a powerful and innovative Android application that allows you to convert any paper-based MCQ test into an online mobile-based test with just a simple scan. With its exceptional accuracy and advanced features, MCQify App is the ultimate solution for students, teachers, and educators who want to save time and effort in creating and grading MCQ tests.
 
 ## Features
