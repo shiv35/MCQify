@@ -18,7 +18,7 @@ MCQify App is a powerful and innovative Android application that allows you to c
 
 || ![MCQify App UI 1](screenshots/ui1.png "MCQify App UI 1") | ![MCQify App UI 2](screenshots/ui2.png "MCQify App UI 2")||
 || ![MCQify App UI 3](screenshots/ui3.png "MCQify App UI 3") | ![MCQify App UI 4](screenshots/ui4.png "MCQify App UI 4")||
-|| ![MCQify App UI 5](screenshots/ui5.png "MCQify App UI 5") | ![MCQify App UI 5](screenshots/ui6.png "MCQify App UI 6")||
+|| ![MCQify App UI 5](screenshots/ui5.png "MCQify App UI 5") | ![MCQify App UI 5](screenshots/ui7.png "MCQify App UI 6")||
 
 ## Compatibility
 
